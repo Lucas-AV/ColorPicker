@@ -67,10 +67,6 @@
     transition: .2s linear;
 }
 
-.refresh:hover{
-    transform: rotate(360deg);
-}
-
 .copied{
     position: fixed;
     bottom: 18px;
